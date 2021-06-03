@@ -16,5 +16,5 @@
     .button2 {background-color: #008CBA;} /* Blue */
     p{text-align: justify;}
     body {
-        background-image: linear-gradient(red, yellow);
+        background-image: linear-gradient(rgb(0, 255, 76), rgb(0, 217, 255));
       }    
